@@ -1,1 +1,3 @@
-# matsumo0922.github.io
+## matsumo0922
+
+このサイトは、matsumo0922 の公開するアプリに必要な情報を Web 上に公開するためのページです。
