@@ -1,28 +1,27 @@
 [
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "caios.android.fanbox.debug",
-            "sha256_cert_fingerprints":
-            [
-                "B6:11:53:15:71:DE:84:57:67:A6:AB:3E:DB:A5:82:F4:4C:BB:3E:10:26:D0:C2:DD:97:6E:FF:6A:E0:1A:F8:B4"
-            ]
-        }
-    },
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "caios.android.fanbox",
-            "sha256_cert_fingerprints":
-            [
-                "16:06:A2:93:5F:87:6B:DA:C2:4B:B2:4E:70:51:B8:D1:D7:16:28:60:66:8D:9F:CC:7B:5B:96:E1:DD:84:95:1A"
-            ]
-        }
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "caios.android.fanbox.debug",
+      "sha256_cert_fingerprints": [
+        "B6:11:53:15:71:DE:84:57:67:A6:AB:3E:DB:A5:82:F4:4C:BB:3E:10:26:D0:C2:DD:97:6E:FF:6A:E0:1A:F8:B4"
+      ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "caios.android.fanbox",
+      "sha256_cert_fingerprints": [
+        "16:06:A2:93:5F:87:6B:DA:C2:4B:B2:4E:70:51:B8:D1:D7:16:28:60:66:8D:9F:CC:7B:5B:96:E1:DD:84:95:1A",
+        "41:94:11:82:73:70:0B:C5:BB:E7:24:AF:F0:78:8F:9B:AF:28:77:21:1F:6F:6D:22:72:75:37:78:F6:0E:4F:84"
+      ]
+    }
+  }
 ]
